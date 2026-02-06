@@ -106,8 +106,9 @@ System remained stable under concurrent usage, with **expected performance degra
 
 ## Screenshots
 <details>
+  <summary><strong>See Screenshots</strong></summary>
+  
   <summary><strong>Jellyfin General Dashboard</strong></summary>
-
   <p align="center">
     <img src="Screenshots/Dashboard_Screenshot.png" width="80%" />
   </p>

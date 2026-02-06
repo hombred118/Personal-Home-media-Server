@@ -148,15 +148,19 @@ System remained stable under concurrent usage, with **expected performance degra
 
 ---
 
-## Suggested Screenshots to Add
-To strengthen the repository visually, consider adding:
-- Jellyfin dashboard (library view)
-- Playback screen on a Smart TV
-- Playback screen on a mobile device
-- Metadata view (movie details)
-- Subtitle and audio track selection menu
+## Screenshots
+### Jellyfin General Dashboard
+![Jellyfin General Dashboard](Screenshots/Dashboard_Screenshot.png)
 
-(Place images in a `/screenshots` folder and reference them here.)
+### Media Details & Metadata
+![Media Details, image metadata](Screenshots/imageMetadataEdit.png)
+![Metadata details](Screenshots/metadata_edit.png)
+
+### Playback on Mobile Device
+![Playback on Mobile](Screenshots/PlayerInAndroidSubtitles.jpg)
+
+### Subtitles & Audio Track Selection
+![Audio Track Selection](Screenshots/playerInAndroid.jpg)
 
 ---
 

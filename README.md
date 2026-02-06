@@ -104,6 +104,34 @@ System remained stable under concurrent usage, with **expected performance degra
 
 ---
 
+## Screenshots
+<details>
+  <summary><strong>📸 View Screenshots</strong></summary>
+
+  <p align="center"> ### Jellyfin General Dashboard
+    <img src="Screenshots/Dashboard_Screenshot.png" width="80%" />
+  </p>
+
+  <p align="center"> Media Details & Metadata
+    <img src="Screenshots/imageMetadataEdit.png" width="80%" />
+  </p>
+
+</details>
+### Jellyfin General Dashboard
+![Jellyfin General Dashboard](Screenshots/Dashboard_Screenshot.png)
+
+### Media Details & Metadata
+![Media Details, image metadata](Screenshots/imageMetadataEdit.png)
+![Metadata details](Screenshots/metadata_edit.png)
+
+### Playback on Mobile Device
+![Playback on Mobile](Screenshots/PlayerInAndroidSubtitles.jpg)
+
+### Subtitles & Audio Track Selection
+![Audio Track Selection](Screenshots/playerInAndroid.jpg)
+
+---
+
 ## QA-Focused Findings
 - Identified performance impact during concurrent streaming
 - Validated codec compatibility across heterogeneous devices
@@ -146,21 +174,7 @@ System remained stable under concurrent usage, with **expected performance degra
 - Scalability planning
 - Cross-device user experience testing
 
----
 
-## Screenshots
-### Jellyfin General Dashboard
-![Jellyfin General Dashboard](Screenshots/Dashboard_Screenshot.png)
-
-### Media Details & Metadata
-![Media Details, image metadata](Screenshots/imageMetadataEdit.png)
-![Metadata details](Screenshots/metadata_edit.png)
-
-### Playback on Mobile Device
-![Playback on Mobile](Screenshots/PlayerInAndroidSubtitles.jpg)
-
-### Subtitles & Audio Track Selection
-![Audio Track Selection](Screenshots/playerInAndroid.jpg)
 
 ---
 
